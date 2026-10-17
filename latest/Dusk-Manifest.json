@@ -1,19 +1,19 @@
 {
   "format":   1,
-  "revision": 45,
+  "revision": 46,
   "files": [
     {
       "path":   "bin/[Dusk - Client].jar",
-      "size":   8960220,
-      "sha256": "17d27b89a8f8bac13cd0b33adf70380b177221acf93a6f0d9dc274207f1b94cc",
-      "urls":   ["https://github.com/zzzz-zzzz-zzzz-zzzz/dusk-releases/releases/download/v45/Dusk-Client.jar", "https://zzzz-zzzz-zzzz-zzzz.github.io/dusk-releases/latest/Dusk-Client.jar"]
+      "size":   8954008,
+      "sha256": "41958af0bfb827ea1df8c895a688748dc6fd3a466253dd4c2a70d98e7f9c200a",
+      "urls":   ["https://github.com/zzzz-zzzz-zzzz-zzzz/dusk-releases/releases/download/v46/Dusk-Client.jar", "https://zzzz-zzzz-zzzz-zzzz.github.io/dusk-releases/latest/Dusk-Client.jar"]
     },
 
     {
-      "path":   "libraries/apache/commons-codec-1.22.1.jar",
-      "size":   422738,
-      "sha256": "78a5d732fbd715e2d10bd7150d2f8030bae57267f8aacc5c88f642cb6c2e5d3f",
-      "url":    "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.22.1/commons-codec-1.22.1.jar"
+      "path":   "libraries/apache/commons-codec-1.23.0.jar",
+      "size":   440773,
+      "sha256": "47504a3ce71d73a1b0af07675546b8d8c5af87f82ef12b6381f9eb3c17dd5a5b",
+      "url":    "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.23.0/commons-codec-1.23.0.jar"
     },
     {
       "path":   "libraries/apache/commons-io-2.22.0.jar",
@@ -198,40 +198,40 @@
     },
 
     {
-      "path":   "libraries/netty/netty-buffer-4.2.18.Final.jar",
-      "size":   378263,
-      "sha256": "fdf236d2b76aa9710684401fdad7dff9dec56e43da5d39172c9a55ba5f14b360",
-      "url":    "https://repo1.maven.org/maven2/io/netty/netty-buffer/4.2.18.Final/netty-buffer-4.2.18.Final.jar"
+      "path":   "libraries/netty/netty-buffer-4.2.19.Final.jar",
+      "size":   378371,
+      "sha256": "863f09b46cfe7d83872c9499086b9681cd9878c30a319d9f1f3a681bbfb0b12f",
+      "url":    "https://repo1.maven.org/maven2/io/netty/netty-buffer/4.2.19.Final/netty-buffer-4.2.19.Final.jar"
     },
     {
-      "path":   "libraries/netty/netty-codec-base-4.2.18.Final.jar",
-      "size":   155356,
-      "sha256": "7e4612bead7ba88ac6f7908fa722f90ad6835ea96505c9e40b2f93686c1f61f3",
-      "url":    "https://repo1.maven.org/maven2/io/netty/netty-codec-base/4.2.18.Final/netty-codec-base-4.2.18.Final.jar"
+      "path":   "libraries/netty/netty-codec-base-4.2.19.Final.jar",
+      "size":   155753,
+      "sha256": "5702c8097cc81e939dd12e5b39ac2e81f83737c320f6f4d88553577842f9ceb6",
+      "url":    "https://repo1.maven.org/maven2/io/netty/netty-codec-base/4.2.19.Final/netty-codec-base-4.2.19.Final.jar"
     },
     {
-      "path":   "libraries/netty/netty-common-4.2.18.Final.jar",
-      "size":   903757,
-      "sha256": "5d97cae5669685872339698efe13f74fe3cdb2dccdb36963b2352bd95acf7070",
-      "url":    "https://repo1.maven.org/maven2/io/netty/netty-common/4.2.18.Final/netty-common-4.2.18.Final.jar"
+      "path":   "libraries/netty/netty-common-4.2.19.Final.jar",
+      "size":   904505,
+      "sha256": "22fa74761f6e35c8c88972f35cf65664566b922dd73d3424528e97c34278fa79",
+      "url":    "https://repo1.maven.org/maven2/io/netty/netty-common/4.2.19.Final/netty-common-4.2.19.Final.jar"
     },
     {
-      "path":   "libraries/netty/netty-handler-4.2.18.Final.jar",
-      "size":   588760,
-      "sha256": "6d5a08d9dd6d7d0211202e22dbb1629b23a62550335c7e80892da1d4cb115540",
-      "url":    "https://repo1.maven.org/maven2/io/netty/netty-handler/4.2.18.Final/netty-handler-4.2.18.Final.jar"
+      "path":   "libraries/netty/netty-handler-4.2.19.Final.jar",
+      "size":   590897,
+      "sha256": "8b469cf23ddf21ba84291f4dff470d2277a28deac95e7084b0ff2ce853e58276",
+      "url":    "https://repo1.maven.org/maven2/io/netty/netty-handler/4.2.19.Final/netty-handler-4.2.19.Final.jar"
     },
     {
-      "path":   "libraries/netty/netty-resolver-4.2.18.Final.jar",
-      "size":   32975,
-      "sha256": "68373ec544cf769ba17bf2ef455166d98f2c260dff536edf35ef57067a9c155f",
-      "url":    "https://repo1.maven.org/maven2/io/netty/netty-resolver/4.2.18.Final/netty-resolver-4.2.18.Final.jar"
+      "path":   "libraries/netty/netty-resolver-4.2.19.Final.jar",
+      "size":   32977,
+      "sha256": "3ded47536faeb3c4c544a84871d82f461511589afb2a892a180ca425f281363e",
+      "url":    "https://repo1.maven.org/maven2/io/netty/netty-resolver/4.2.19.Final/netty-resolver-4.2.19.Final.jar"
     },
     {
-      "path":   "libraries/netty/netty-transport-4.2.18.Final.jar",
-      "size":   549970,
-      "sha256": "eac4f12068db4489e60c6520fad663e5d872f0436a7c641aa9e08db649947863",
-      "url":    "https://repo1.maven.org/maven2/io/netty/netty-transport/4.2.18.Final/netty-transport-4.2.18.Final.jar"
+      "path":   "libraries/netty/netty-transport-4.2.19.Final.jar",
+      "size":   552273,
+      "sha256": "d82d4e200456b8c5d8a1647a3724603f80616e5b35b9ada6e7a20d048f175075",
+      "url":    "https://repo1.maven.org/maven2/io/netty/netty-transport/4.2.19.Final/netty-transport-4.2.19.Final.jar"
     }
   ]
 }
