@@ -1,12 +1,12 @@
 {
   "format":   1,
-  "revision": 43,
+  "revision": 44,
   "files": [
     {
       "path":   "bin/[Dusk - Client].jar",
-      "size":   8959570,
-      "sha256": "33822c426249dbf0ac2456ee504aa55950024aa60de1fc479a2157599f79f072",
-      "urls":   ["https://github.com/zzzz-zzzz-zzzz-zzzz/dusk-releases/releases/download/v43/Dusk-Client.jar", "https://zzzz-zzzz-zzzz-zzzz.github.io/dusk-releases/latest/Dusk-Client.jar"]
+      "size":   8959687,
+      "sha256": "a3d7decde04dc32b4fbd8843b0dc8cef51d73b6c93fe092c222576c7a3dd54be",
+      "urls":   ["https://github.com/zzzz-zzzz-zzzz-zzzz/dusk-releases/releases/download/v44/Dusk-Client.jar", "https://zzzz-zzzz-zzzz-zzzz.github.io/dusk-releases/latest/Dusk-Client.jar"]
     },
 
     {
