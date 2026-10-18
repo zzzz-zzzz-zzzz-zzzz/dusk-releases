@@ -1,20 +1,20 @@
 {
   "format": 1,
-  "release": 49,
+  "release": 50,
   "windows": {
     "urls": [
-      "https://github.com/zzzz-zzzz-zzzz-zzzz/dusk-releases/releases/download/v49/Dusk-Launcher.exe",
+      "https://github.com/zzzz-zzzz-zzzz-zzzz/dusk-releases/releases/download/v50/Dusk-Launcher.exe",
       "https://zzzz-zzzz-zzzz-zzzz.github.io/dusk-releases/latest/Dusk-Launcher.exe"
     ],
     "size": 1586688,
-    "sha256": "15d1983a4846a7615e674ed96191c9e920cf4132009d05f890db03811eae7082"
+    "sha256": "51aa03f6d2c52a6f290a1d20f13663ec8e6a087f1eae8b15e1a2ee6e4e7d6393"
   },
   "macos": {
     "urls": [
-      "https://github.com/zzzz-zzzz-zzzz-zzzz/dusk-releases/releases/download/v49/Dusk-Launcher-mac.zip",
+      "https://github.com/zzzz-zzzz-zzzz-zzzz/dusk-releases/releases/download/v50/Dusk-Launcher-mac.zip",
       "https://zzzz-zzzz-zzzz-zzzz.github.io/dusk-releases/latest/Dusk-Launcher-mac.zip"
     ],
-    "size": 9900596,
-    "sha256": "4a2a10c4e4a99a60d7a2536ddcfe040fae4f7656ccf5c65f6650b26f244bd732"
+    "size": 9900573,
+    "sha256": "eb319ce7624bdfb2c021fbffed5556a52e039eda2e1425b76352371090bf71b8"
   }
 }
