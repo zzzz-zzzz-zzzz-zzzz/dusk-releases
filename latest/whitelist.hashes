@@ -1,0 +1,10 @@
+{
+  "killswitch": false,
+  "min_client_build": 1,
+  "hashes": [
+    "9dca01dca8de8eb5b215d5714d49b92d1b98f05a72764c4841a718e5b2153597",
+    "472e70e18ccd303aecaa368b08ab7191f56df99510def87ea223bc65ae1645fd",
+    "7f18060c8746ae1acf7bfc769a5b416e632fbb73b032450b82068ab37fe0ad05",
+    "b5ba848f23dcebcaa2e49b8d2b6edae24c3c7117a97ed2e05809c3b873a1031c"
+  ]
+}
